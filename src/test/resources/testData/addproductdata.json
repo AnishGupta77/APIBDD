@@ -1,0 +1,20 @@
+{
+  "Pduct1": {
+    "title": "Test Product # 1",
+    "price": 100,
+    "stock": 50,
+    "expectedStatusCode": 201
+  },
+  "Pduct2": {
+    "title": "Test Product # 2",
+    "price": 200,
+    "stock": 75,
+    "expectedStatusCode": 201
+  },
+  "Pduct3": {
+    "title": "Test Product # 3",
+    "price": 300,
+    "stock": 90,
+    "expectedStatusCode": 201
+  }
+}
