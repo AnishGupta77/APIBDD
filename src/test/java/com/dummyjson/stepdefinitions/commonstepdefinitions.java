@@ -122,6 +122,7 @@ public class commonstepdefinitions{
                 actualStatusCode
         );
         System.out.println("Codes are :" +actualStatusCode +":" +expectedStatusCode);
+        System.out.println("test execution completed");
     }
 
 }
