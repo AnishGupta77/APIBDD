@@ -87,7 +87,7 @@ public class commonstepdefinitions{
                 testData.get("expectedStatusCode").asInt();
 
         testContext.setExpectedStatusCode(expectedStatusCode);
-        System.out.println("added product from testdata");
+        System.out.println("added product from Anishtestdata");
     }
 
     @When("I send the request to add the product")
